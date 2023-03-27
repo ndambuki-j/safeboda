@@ -1,4 +1,4 @@
-# safeboda
+# SafeBoda
 ## PostgreSQL Case Study
 
 In this case study postgreSQL skills are tested. You have been provided with two datasets (described below). Please upload these datasets following the instructions below and write a query (or queries) that create the statistics specified below. Please return both the query (queries) and the statistics in a .txt or .sql document.
